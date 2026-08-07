@@ -63,3 +63,29 @@ padding:20px;
 text-align:center;
 margin-top:50px;
 }
+.gallery{
+  padding:40px 20px;
+  text-align:center;
+}
+
+.card{
+  background:#222;
+  margin:20px auto;
+  padding:15px;
+  border-radius:10px;
+  max-width:300px;
+}
+
+.card img{
+  width:100%;
+  border-radius:10px;
+}
+
+.card h3{
+  margin:10px 0;
+}
+
+.card p{
+  color:#ff9800;
+  font-size:20px;
+}
